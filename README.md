@@ -1,3 +1,5 @@
+## Web Exercise 1 Activities
+
 Selected dataset: [Data Science Jobs and Salaries Indeed](https://www.kaggle.com/datasets/ritiksharma07/data-science-jobs-and-salaries-indeed)
 
 - Applications: Somebody searching for a job could use NLP to determine if there are any keywords included in the job description field that typically correlates to a higher salary. They could then find out which skills are considered more valuable for data science jobs and improve on them by taking classes or completing relevant projects. Additionally, one could conduct an analysis of the job market by seeing how the different variables, such as company or location, affect the average salary. Predictive models could also be created and trained on the data in order to predict the salary of a data science related job, given variables such as location, job title, and description.
